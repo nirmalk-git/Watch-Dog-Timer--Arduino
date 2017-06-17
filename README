@@ -1,0 +1,2 @@
+# Watch-Dog-Timer--Arduino
+This is the gimbal code. In order to avoid being stuck during some period a watch dog timer is used. Which reset the system whenever the system get stuck.
